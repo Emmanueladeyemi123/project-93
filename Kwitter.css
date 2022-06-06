@@ -13,3 +13,8 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
   height: 50px;
   width: 50px;
 }
+.logo{
+  height: 100px;
+  width: 100px;
+  border-radius:50px;
+}
